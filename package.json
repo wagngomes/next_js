@@ -1,0 +1,21 @@
+{
+  "name": "alura_cases_divulgacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wagngomes/next_js.git",
+  "author": "wagngomes gomes <wagner.gomes.cx2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.4.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    
+  }
+
+}
